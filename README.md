@@ -1,2 +1,2 @@
-#  Proje 1
-Girilen boyut değerlerine ve girilen isme göre yazı biçimi oluşturan program.
+#  Project 1
+A program that creates a typeface according to the size values entered and the name entered.
